@@ -1,1 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T02:19:13.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.1.2" etag="1J0gF0jft_6BkoSGLizB" type="github"><diagram id="onGxwslfQfSlBnFe0gaD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-29T13:24:00.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="TpoSpXocTcuCuW01hl-t" version="14.1.3" type="github">
+  <diagram id="onGxwslfQfSlBnFe0gaD" name="Page-1">
+    <mxGraphModel dx="2295" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l4tDG3tHfzlViM59Esea-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-120" width="510" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="l4tDG3tHfzlViM59Esea-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-265" width="350" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="l4tDG3tHfzlViM59Esea-4" value="功能探索期" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="390" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l4tDG3tHfzlViM59Esea-5" value="消费稳定期" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="100" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l4tDG3tHfzlViM59Esea-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="180" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="l4tDG3tHfzlViM59Esea-7" value="消费衰退期" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="440" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l4tDG3tHfzlViM59Esea-8" value="首次点击" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l4tDG3tHfzlViM59Esea-9" value="首次分享" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l4tDG3tHfzlViM59Esea-10" value="首次点赞" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="334" y="-30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l4tDG3tHfzlViM59Esea-11" value="沉默用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="460" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="l4tDG3tHfzlViM59Esea-13" value="用户全生命周期因果推断" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=37;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="-200" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l4tDG3tHfzlViM59Esea-14" value="持续消费" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="730" y="-80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l4tDG3tHfzlViM59Esea-16" value="首次订阅" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l4tDG3tHfzlViM59Esea-21" value="" style="endArrow=classic;html=1;fontSize=37;exitX=1;exitY=0;exitDx=0;exitDy=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l4tDG3tHfzlViM59Esea-2" target="l4tDG3tHfzlViM59Esea-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="240" as="sourcePoint" />
+            <mxPoint x="600" y="-60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="-180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4tDG3tHfzlViM59Esea-22" value="" style="endArrow=classic;html=1;fontSize=37;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="l4tDG3tHfzlViM59Esea-3" target="l4tDG3tHfzlViM59Esea-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="260" as="sourcePoint" />
+            <mxPoint x="730" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1090" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4tDG3tHfzlViM59Esea-23" value="" style="endArrow=classic;html=1;fontSize=37;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="l4tDG3tHfzlViM59Esea-27" target="l4tDG3tHfzlViM59Esea-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="510" as="sourcePoint" />
+            <mxPoint x="830" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="519" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4tDG3tHfzlViM59Esea-26" value="消费间断" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="850" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l4tDG3tHfzlViM59Esea-27" value="进入间断" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="880" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l4tDG3tHfzlViM59Esea-28" value="首次进入" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l4tDG3tHfzlViM59Esea-30" value="" style="endArrow=classic;html=1;fontSize=37;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="l4tDG3tHfzlViM59Esea-6" target="l4tDG3tHfzlViM59Esea-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="220" as="sourcePoint" />
+            <mxPoint x="610" y="-45" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4tDG3tHfzlViM59Esea-39" value="多天持续消费" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l4tDG3tHfzlViM59Esea-44" value="" style="endArrow=classic;html=1;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="l4tDG3tHfzlViM59Esea-11" target="l4tDG3tHfzlViM59Esea-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-150" y="460" as="sourcePoint" />
+            <mxPoint y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
