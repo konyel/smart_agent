@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T08:51:35.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="hE4BHDg4ybSwlJlkllaL" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T08:52:08.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="-CFQ_yxO_9V61dI-b4rI" version="13.4.2" type="github">
   <diagram id="_YqfjPX831wR3p7C5Wxa" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -247,6 +247,9 @@
               <mxPoint x="280" y="2363" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GnxOr5zdsawewWnfqmuB-21" value="增量训练" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="650" y="2070" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
