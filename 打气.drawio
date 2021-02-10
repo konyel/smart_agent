@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T08:40:08.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="s0PzDO20QT1UanJVOiDM" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T08:41:30.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="3Q1AjQHhUhJH0QcfQzhk" version="13.4.2" type="github">
   <diagram id="_YqfjPX831wR3p7C5Wxa" name="Page-1">
     <mxGraphModel dx="1038" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -167,7 +167,7 @@
             <mxPoint x="543" y="1420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GnxOr5zdsawewWnfqmuB-1" value="人员线" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="GnxOr5zdsawewWnfqmuB-1" value="策略团队" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="310" y="1800" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GnxOr5zdsawewWnfqmuB-2" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
@@ -192,7 +192,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GnxOr5zdsawewWnfqmuB-4" value="架构线" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="GnxOr5zdsawewWnfqmuB-4" value="离线实时化" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="310" y="1930" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
