@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T08:41:30.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="3Q1AjQHhUhJH0QcfQzhk" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T08:44:01.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="IdIi4hziwX8Y13re-rTl" version="13.4.2" type="github">
   <diagram id="_YqfjPX831wR3p7C5Wxa" name="Page-1">
-    <mxGraphModel dx="1038" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,6 +194,26 @@
         </mxCell>
         <mxCell id="GnxOr5zdsawewWnfqmuB-4" value="离线实时化" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="310" y="1930" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GnxOr5zdsawewWnfqmuB-8" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="2160" as="sourcePoint" />
+            <mxPoint x="760" y="2160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GnxOr5zdsawewWnfqmuB-9" value="算法线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GnxOr5zdsawewWnfqmuB-8">
+          <mxGeometry x="0.13" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GnxOr5zdsawewWnfqmuB-10" value="item冷启动" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="2070" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GnxOr5zdsawewWnfqmuB-11" value="用户冷启动" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2070" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GnxOr5zdsawewWnfqmuB-12" value="特征选择" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="540" y="2070" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
